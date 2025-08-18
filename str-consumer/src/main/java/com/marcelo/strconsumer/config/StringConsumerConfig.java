@@ -1,4 +1,4 @@
-package com.valdir.strconsumer.config;
+package com.marcelo.strconsumer.config;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.log4j.Log4j2;

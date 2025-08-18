@@ -1,4 +1,4 @@
-package com.valdir.jsonconsumer.config;
+package com.marcelo.jsonconsumer.config;
 
 import lombok.RequiredArgsConstructor;
 import org.apache.kafka.clients.consumer.ConsumerConfig;

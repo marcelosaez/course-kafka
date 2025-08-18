@@ -1,4 +1,4 @@
-package com.valdir.paymentservice.config;
+package com.marcelo.paymentservice.config;
 
 import lombok.RequiredArgsConstructor;
 import org.apache.kafka.clients.admin.AdminClientConfig;

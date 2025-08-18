@@ -1,8 +1,8 @@
-package com.valdir.paymentservice.resource.impl;
+package com.marcelo.paymentservice.resource.impl;
 
-import com.valdir.paymentservice.model.Payment;
-import com.valdir.paymentservice.resource.PaymentResource;
-import com.valdir.paymentservice.service.PaymentService;
+import com.marcelo.paymentservice.model.Payment;
+import com.marcelo.paymentservice.resource.PaymentResource;
+import com.marcelo.paymentservice.service.PaymentService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,6 +1,6 @@
-package com.valdir.jsonconsumer.listener;
+package com.marcelo.jsonconsumer.listener;
 
-import com.valdir.jsonconsumer.model.Payment;
+import com.marcelo.jsonconsumer.model.Payment;
 import lombok.SneakyThrows;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.kafka.annotation.KafkaListener;

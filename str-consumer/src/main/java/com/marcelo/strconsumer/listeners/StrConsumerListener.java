@@ -1,6 +1,6 @@
-package com.valdir.strconsumer.listeners;
+package com.marcelo.strconsumer.listeners;
 
-import com.valdir.strconsumer.custom.StrConsumerCustomListener;
+import com.marcelo.strconsumer.custom.StrConsumerCustomListener;
 import lombok.SneakyThrows;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.kafka.annotation.KafkaListener;

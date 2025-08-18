@@ -1,4 +1,4 @@
-package com.valdir.strconsumer.exceptions;
+package com.marcelo.strconsumer.exceptions;
 
 import lombok.extern.log4j.Log4j2;
 import org.springframework.kafka.listener.KafkaListenerErrorHandler;

@@ -1,4 +1,4 @@
-package com.valdir.strconsumer.custom;
+package com.marcelo.strconsumer.custom;
 
 import org.springframework.core.annotation.AliasFor;
 import org.springframework.kafka.annotation.KafkaListener;

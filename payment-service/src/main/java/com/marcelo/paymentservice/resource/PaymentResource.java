@@ -1,6 +1,6 @@
-package com.valdir.paymentservice.resource;
+package com.marcelo.paymentservice.resource;
 
-import com.valdir.paymentservice.model.Payment;
+import com.marcelo.paymentservice.model.Payment;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

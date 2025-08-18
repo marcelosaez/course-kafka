@@ -1,11 +1,9 @@
-package com.valdir.jsonconsumer.model;
+package com.marcelo.paymentservice.model;
 
 import lombok.Getter;
-import lombok.ToString;
 
 import java.io.Serializable;
 
-@ToString
 @Getter
 public class Payment implements Serializable {
 
